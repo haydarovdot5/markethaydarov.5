@@ -1,0 +1,35 @@
+BODY {
+	background: url(background.png);
+	background-size: cover;
+	background-attachment: fixed;
+}
+H1 {
+	padding: 50PX;
+	margin-left: 580PX;
+ }
+ #WELCOME {
+     padding: 30PX;
+     margin-left: 550PX;
+ }
+ input{
+      padding: 8px;
+      margin-left:600px;
+       border-width: 1;
+ }
+ button {
+ 	padding: 10px;
+  border-width: 2px;
+
+ 	margin-left: 820px;
+ }
+ a h6 {
+ 	margin-left: 600px;
+ 	size: 50px;
+ 	color: #330000
+ }
+ button :hover { 
+    background: whitesmoke;
+    
+
+ }
+ 

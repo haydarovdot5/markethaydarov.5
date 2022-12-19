@@ -1,0 +1,31 @@
+BODY {
+
+	background: url(background.png);
+	background-size: cover;
+	background-attachment: fixed;
+}
+H1 {
+	padding: 90PX;
+	margin-left: 490PX;
+ }
+input{
+      padding: 8px;
+      margin-left:630px;
+       border-width: 1;
+ }
+  button {
+ 	padding: 5px;
+  border-width: 2px;
+
+ 	margin-left: 820px;
+ }
+ a h4 {
+ 	margin-left: 600px;
+ 	size: 50px;
+ 	color: #330000
+ }
+  a h5 {
+ 	margin-left: 600px;
+ 	size: 50px;
+ 	color: #330000;
+ }

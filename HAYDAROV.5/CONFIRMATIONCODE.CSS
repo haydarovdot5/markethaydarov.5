@@ -1,0 +1,26 @@
+BODY {
+
+	background: url(background.png);
+	background-size: cover;
+	background-attachment: fixed;
+}
+H1 {
+	padding: 90PX;
+	margin-left: 480PX;
+ }
+ H5 {
+  padding: 25PX;
+  margin-left: 500PX;
+}
+   input{
+      padding: 8px;
+      margin-left:600px;
+      border-width: 1;
+ }
+ 
+ button {
+ 	padding: 5px;
+  border-width: 2px;
+
+ 	margin-left: 780px;
+ }
